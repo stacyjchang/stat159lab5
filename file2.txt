@@ -1,1 +1,7 @@
+
+My day is not going very well because I have not had a nap.
+
 this is file2! I am having a great day because nap time is great!
+
+
+This is JD modifying file2 while on branch task4B

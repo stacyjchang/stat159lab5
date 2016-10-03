@@ -8,3 +8,14 @@ In git it is possible to work with multiple collaborators on one project. This c
 ---
 Here is a picture to illustrate:
 ![Image explaining git](http://i.stack.imgur.com/KhtPf.png)
+
+
+
+## Conflict of edits at the same time
+
+The way to resolve over-lapping edits is to always pull the git repo to your local repository before you push anything to the master.
+
+
+## Editing on a multiple branches
+
+Git branches allow multiple users to work on branches simultaneously. They can then merge the branches in such a way that the code can merge without losing any of the content. 
