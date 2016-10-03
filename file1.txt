@@ -1,3 +1,7 @@
+
+hello, I'm file1. Your personal healthcare companion.
+this is from big hero 6!! big hero 6 is the best movie!!!
+
 hello, I'm file1. Your personal healthcare companion.
 
 
@@ -5,3 +9,6 @@ This is JD. I am editing file1 while in my branch task3B.
 
 
 This is JD. I am editing file1 while on my branch task5B.
+
+
+this is stacy, I am editing file 1 while in branch task5A
