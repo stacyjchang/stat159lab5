@@ -1,7 +1,8 @@
 # stat159lab5
 
-authors: User A; Stacy Chang
-         User B; James de Lorimier
+authors: User A: Stacy Chang
+
+         User B: James de Lorimier
 
 
 
