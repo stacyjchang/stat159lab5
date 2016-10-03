@@ -1,1 +1,4 @@
-hello, I'm file1. Your personal healthcare companion. 
+hello, I'm file1. Your personal healthcare companion.
+
+
+This is JD. I am editing file1 while in my branch task 3B
